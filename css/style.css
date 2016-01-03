@@ -85,3 +85,8 @@ footer {
   -webkit-flex-direction: row;
   -webkit-justify-content: center;
 }
+
+.value {
+  width: 80%;
+  margin: 0 auto;
+}
